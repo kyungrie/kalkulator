@@ -64,7 +64,7 @@
                                             $class = 'btn-clear';
                                         }
                                         echo '<div class="col-3">';
-                                        echo '<button type="submit" name="button" value="'.$btn.'" class="btn'.$class.' w-100"> '.$btn.' </button>';
+                                        echo '<button type="submit" name="button" value="'.$btn.'" class="btn '.$class.' w-100"> '.$btn.' </button>';
                                         echo '</div>';
                                     }
 
